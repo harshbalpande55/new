@@ -1,5 +1,5 @@
 added to local cd.
 new roll.
-<<<<<<< HEAD
-name = "rahul".
+name = "rahul"
 name = harsh
+
